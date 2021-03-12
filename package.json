@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "array_sample.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adithyavj/NodejsBasics.git"
+  },
+  "author": "Adithya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adithyavj/NodejsBasics/issues"
+  },
+  "homepage": "https://github.com/Adithyavj/NodejsBasics#readme"
+}
